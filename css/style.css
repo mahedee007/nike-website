@@ -20,9 +20,13 @@
   font-weight: 400;
 }
 /* HERO SECTION */
+.hero-img {
+  width: 80%;
+}
 .hero-title {
   font-family: "Bebas Neue", cursive;
   font-size: 4.5rem;
+  width: 100%;
 }
 .hero-title span {
   color: #fa804c;

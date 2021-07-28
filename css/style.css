@@ -62,8 +62,11 @@
 }
 .features-img {
   padding-left: 27px;
-  padding-right: 30px;
 }
+.features-div {
+  padding-left: 30px;
+}
+
 .features-title {
   font-family: roboto;
 }

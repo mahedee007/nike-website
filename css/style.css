@@ -54,6 +54,9 @@
   text-align: center;
 }
 /* Features section */
+#features {
+  margin-top: 4rem;
+}
 .features-items {
   height: 135px;
 }
